@@ -1,0 +1,11 @@
+.myself{
+    height:345px;
+    width:300px;
+}
+
+@media screen and (min-width:640px) {
+    .myself{
+        height:545px;
+        width:400px;
+    }
+}
